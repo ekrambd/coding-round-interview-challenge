@@ -30,3 +30,5 @@ HashMap:
 23. Happy Number — LeetCode 202 
 24. Group Shifted Strings — LeetCode 249 
 25. Word Pattern — LeetCode 290
+26. Majority Element - Leetcode 169
+27. Merge Intervals - Leetcode 56 ( Array )
