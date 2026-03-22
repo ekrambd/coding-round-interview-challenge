@@ -11,6 +11,7 @@ Array:
   - Done
 5. Product of Array Except Self — LeetCode 238 
 6. Maximum Subarray — LeetCode 53 
+   - Done
 7. Subarray Sum Equals K — LeetCode 560 
 8. Kth Largest Element in an Array — LeetCode 215 
 9. Sort Array By Parity — LeetCode 905 
