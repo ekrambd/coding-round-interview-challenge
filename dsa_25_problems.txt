@@ -8,6 +8,7 @@ Array:
 3. Best Time to Buy and Sell Stock — LeetCode 121
    - Done 
 4. Contains Duplicate —LeetCode 217 
+  - Done
 5. Product of Array Except Self — LeetCode 238 
 6. Maximum Subarray — LeetCode 53 
 7. Subarray Sum Equals K — LeetCode 560 
