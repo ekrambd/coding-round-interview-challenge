@@ -2,7 +2,9 @@
 
 Array: 
 1. Two Sum — LeetCode 1 
+   - Done
 2. Move Zeroes — LeetCode 283 
+   - Done
 3. Best Time to Buy and Sell Stock — LeetCode 121 
 4. Contains Duplicate —LeetCode 217 
 5. Product of Array Except Self — LeetCode 238 
