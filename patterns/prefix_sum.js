@@ -5,10 +5,10 @@ let buildPrefix = function(nums) {
     {
         prefix[i] = prefix[i-1] + nums[i];
     }
-    return prefix;       
+    return prefix;              
 }
 
 let nums = [2, 4, 6, 8];
 let prefix = buildPrefix(nums);
 
-console.log(prefix);               // [2, 6, 12, 20]
+console.log(prefix); // [2, 6, 12, 20]
