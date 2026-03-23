@@ -14,7 +14,8 @@ Array:
    - Done
 7. Subarray Sum Equals K — LeetCode 560
    -> Done 
-8. Kth Largest Element in an Array — LeetCode 215 
+8. Kth Largest Element in an Array — LeetCode 215
+    -> Done 
 9. Sort Array By Parity — LeetCode 905 
 10. Longest Consecutive Sequence — LeetCode 128
 
