@@ -17,6 +17,7 @@ Array:
 8. Kth Largest Element in an Array — LeetCode 215
     -> Done 
 9. Sort Array By Parity — LeetCode 905 
+   -> Done
 10. Longest Consecutive Sequence — LeetCode 128
 
 String: 
